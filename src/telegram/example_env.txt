@@ -1,0 +1,2 @@
+TOKEN=your_token_of_tg_bot
+DB=your_url_for_database
