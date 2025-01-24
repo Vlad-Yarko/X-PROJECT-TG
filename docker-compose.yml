@@ -4,5 +4,5 @@ services:
   tg_bot:
     build:
       context: /src/telegram
-      dockerfile: Dockerfile
+      dockerfile: src/telegram/bot_dir/Dockerfile
     container_name: 'TG-BOT-X'
